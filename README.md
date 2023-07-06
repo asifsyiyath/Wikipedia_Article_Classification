@@ -1,7 +1,7 @@
 # Wikipedia Article Classification
 
 ## Problem Statement
-Probleme statement given [here](https://github.com/Shubh4545/Wikipedia_Article_Classification/blob/3dd2706404ac7bf2ddc5fa1ac579bba2ce627baa/Wikipedia_Article_Classification.ipynb) 
+Probleme statement given [here](https://github.com/asifsyiyath/Wikipedia_Article_Classification/blob/main/Wikipedia_Classification.pdf) 
 
 ## Goal 
 The end goal of this project is to develop a binary classification model that can classify Wikipedia articles as either featured or non-featured. 
